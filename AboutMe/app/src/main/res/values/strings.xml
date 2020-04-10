@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">shiba-hiro</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Software Engineer at Tokyo, from frontend to designing data, architecting.
+\n\n## I\'m interested in…
+\n- Dev/Ops the service which is scalable in all the business, the organization and engineering sides
+\n- Architecture, technology selection, implementation to build the service with high efficiency by using the Cloud environments and SaaSs correctly
+\n\n## What I make importance in developing;
+\n- Understanding and applying basics, theories, best practices, and official docs
+\n- Logging carefully, handling errors carefully, designing data and DX with focusing on the service operation
+\n- Prioritizing tasks clearly and deciding what we need NOT to do in the team, and completing things one by one</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
